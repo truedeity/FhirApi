@@ -1,4 +1,3 @@
-@"
 # FHIR API with ASP.NET Core
 
 This is a FHIR API implementation using ASP.NET Core and EF Core with In-Memory or SQL Server.
